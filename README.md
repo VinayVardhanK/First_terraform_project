@@ -1,1 +1,1 @@
-# First_terraform_project
+Launching an EC2 instance using terraform
